@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-11T17:21:45 IST" name="Default suite" finished-at="2021-11-11T17:21:45 IST" duration-ms="160">
+    <groups>
+    </groups>
+    <test started-at="2021-11-11T17:21:45 IST" name="Default test" finished-at="2021-11-11T17:21:45 IST" duration-ms="160">
+      <class name="gitpratice.gitpull">
+        <test-method signature="gitpush()[pri:0, instance:gitpratice.gitpull@37858383]" started-at="2021-11-11T17:21:45 IST" name="gitpush" finished-at="2021-11-11T17:21:45 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gitpush -->
+      </class> <!-- gitpratice.gitpull -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
